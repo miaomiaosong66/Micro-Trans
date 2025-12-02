@@ -1,0 +1,3854 @@
+{
+    "mdi_importance": [
+        {
+            "feature": "Prevotella",
+            "importance": 0.018074503617268083
+        },
+        {
+            "feature": "Collinsella",
+            "importance": 0.017455863796203896
+        },
+        {
+            "feature": "Lachnospiraceae.NK4A136.group",
+            "importance": 0.016845627056526334
+        },
+        {
+            "feature": "Alloprevotella",
+            "importance": 0.0165431453210056
+        },
+        {
+            "feature": "Parasutterella",
+            "importance": 0.015571213515381339
+        },
+        {
+            "feature": "UCG.002",
+            "importance": 0.015188877416080333
+        },
+        {
+            "feature": "UBA1819",
+            "importance": 0.01459526314780182
+        },
+        {
+            "feature": "Alistipes",
+            "importance": 0.014375606286807598
+        },
+        {
+            "feature": "X.Ruminococcus..gnavus.group",
+            "importance": 0.014260440407425384
+        },
+        {
+            "feature": "Bacteroides",
+            "importance": 0.014194547649572892
+        },
+        {
+            "feature": "X.Eubacterium..hallii.group",
+            "importance": 0.01391006715251793
+        },
+        {
+            "feature": "Monoglobus",
+            "importance": 0.013806110886121315
+        },
+        {
+            "feature": "Parabacteroides",
+            "importance": 0.0137688876542329
+        },
+        {
+            "feature": "Butyricicoccus",
+            "importance": 0.01368981131075612
+        },
+        {
+            "feature": "Prevotella_9",
+            "importance": 0.013687617472734007
+        },
+        {
+            "feature": "Anaerostipes",
+            "importance": 0.013004405786589242
+        },
+        {
+            "feature": "Ruminococcus",
+            "importance": 0.012914072400990104
+        },
+        {
+            "feature": "Blautia",
+            "importance": 0.012910803281984868
+        },
+        {
+            "feature": "X.Eubacterium..siraeum.group",
+            "importance": 0.012880312321666691
+        },
+        {
+            "feature": "Lachnoclostridium",
+            "importance": 0.012738124822848182
+        },
+        {
+            "feature": "Bifidobacterium",
+            "importance": 0.012467742442638723
+        },
+        {
+            "feature": "Christensenellaceae.R.7.group",
+            "importance": 0.012441075637519854
+        },
+        {
+            "feature": "NK4A214.group",
+            "importance": 0.012321163312833092
+        },
+        {
+            "feature": "Lachnospiraceae.UCG.004",
+            "importance": 0.012087126922512572
+        },
+        {
+            "feature": "Oscillibacter",
+            "importance": 0.011999640207925275
+        },
+        {
+            "feature": "Faecalibacterium",
+            "importance": 0.011765031357415568
+        },
+        {
+            "feature": "Escherichia.Shigella",
+            "importance": 0.01175986681159412
+        },
+        {
+            "feature": "Hungatella",
+            "importance": 0.011611171584662986
+        },
+        {
+            "feature": "Klebsiella",
+            "importance": 0.011275969485199575
+        },
+        {
+            "feature": "X.Eubacterium..ventriosum.group",
+            "importance": 0.011242903375860697
+        },
+        {
+            "feature": "X.Ruminococcus..torques.group",
+            "importance": 0.011097876649262178
+        },
+        {
+            "feature": "X.Eubacterium..xylanophilum.group",
+            "importance": 0.01108412889499841
+        },
+        {
+            "feature": "Lachnospira",
+            "importance": 0.010864032562749098
+        },
+        {
+            "feature": "UCG.005",
+            "importance": 0.010691133752097187
+        },
+        {
+            "feature": "Fusicatenibacter",
+            "importance": 0.01058934199715866
+        },
+        {
+            "feature": "X.Eubacterium..eligens.group",
+            "importance": 0.01038917032820248
+        },
+        {
+            "feature": "Flavonifractor",
+            "importance": 0.010194060135536568
+        },
+        {
+            "feature": "Agathobacter",
+            "importance": 0.010145347333409126
+        },
+        {
+            "feature": "Bilophila",
+            "importance": 0.0100389380860753
+        },
+        {
+            "feature": "Subdoligranulum",
+            "importance": 0.010022461738278504
+        },
+        {
+            "feature": "Veillonella",
+            "importance": 0.009965595048386908
+        },
+        {
+            "feature": "Lachnospiraceae.ND3007.group",
+            "importance": 0.009960569155635984
+        },
+        {
+            "feature": "Streptococcus",
+            "importance": 0.009920891204026781
+        },
+        {
+            "feature": "Clostridium.sensu.stricto.1",
+            "importance": 0.009887557518607735
+        },
+        {
+            "feature": "Roseburia",
+            "importance": 0.00980101812037673
+        },
+        {
+            "feature": "Dorea",
+            "importance": 0.009596775695463293
+        },
+        {
+            "feature": "X.Eubacterium..ruminantium.group",
+            "importance": 0.009434439720083853
+        },
+        {
+            "feature": "Haemophilus",
+            "importance": 0.00931822275294156
+        },
+        {
+            "feature": "Lachnospiraceae.UCG.010",
+            "importance": 0.009211828155137323
+        },
+        {
+            "feature": "DTU089",
+            "importance": 0.008884016743556657
+        },
+        {
+            "feature": "Coprococcus",
+            "importance": 0.008792923978333572
+        },
+        {
+            "feature": "Erysipelatoclostridium",
+            "importance": 0.008746033030426656
+        },
+        {
+            "feature": "Turicibacter",
+            "importance": 0.008684952209436284
+        },
+        {
+            "feature": "Akkermansia",
+            "importance": 0.008653060650668887
+        },
+        {
+            "feature": "Romboutsia",
+            "importance": 0.008523843528355848
+        },
+        {
+            "feature": "Dialister",
+            "importance": 0.008441795900317212
+        },
+        {
+            "feature": "Colidextribacter",
+            "importance": 0.008430154723564986
+        },
+        {
+            "feature": "Phascolarctobacterium",
+            "importance": 0.008413242826808458
+        },
+        {
+            "feature": "UCG.003",
+            "importance": 0.008028880482997531
+        },
+        {
+            "feature": "Tyzzerella",
+            "importance": 0.007981463897426972
+        },
+        {
+            "feature": "Eggerthella",
+            "importance": 0.0077752974771757456
+        },
+        {
+            "feature": "Eisenbergiella",
+            "importance": 0.007556730737488094
+        },
+        {
+            "feature": "X.Eubacterium..fissicatena.group",
+            "importance": 0.007541774960347981
+        },
+        {
+            "feature": "CAG.352",
+            "importance": 0.007405877954024023
+        },
+        {
+            "feature": "Sutterella",
+            "importance": 0.0073994502229218885
+        },
+        {
+            "feature": "Holdemania",
+            "importance": 0.007381444797597858
+        },
+        {
+            "feature": "Intestinibacter",
+            "importance": 0.006925465121352159
+        },
+        {
+            "feature": "Odoribacter",
+            "importance": 0.006823338046629622
+        },
+        {
+            "feature": "Erysipelotrichaceae.UCG.003",
+            "importance": 0.006615139670712558
+        },
+        {
+            "feature": "Sellimonas",
+            "importance": 0.005996300394451868
+        },
+        {
+            "feature": "Barnesiella",
+            "importance": 0.005916711076482921
+        },
+        {
+            "feature": "Holdemanella",
+            "importance": 0.005844211011509587
+        },
+        {
+            "feature": "Family.XIII.AD3011.group",
+            "importance": 0.005822942622616768
+        },
+        {
+            "feature": "Intestinimonas",
+            "importance": 0.005664175356241843
+        },
+        {
+            "feature": "Tuzzerella",
+            "importance": 0.005516114765757707
+        },
+        {
+            "feature": "CAG.56",
+            "importance": 0.005417271310843042
+        },
+        {
+            "feature": "Negativibacillus",
+            "importance": 0.005356616286102311
+        },
+        {
+            "feature": "Granulicatella",
+            "importance": 0.005040548079488354
+        },
+        {
+            "feature": "Megasphaera",
+            "importance": 0.004808887584768681
+        },
+        {
+            "feature": "Lachnospiraceae.FCS020.group",
+            "importance": 0.004763311848003296
+        },
+        {
+            "feature": "Terrisporobacter",
+            "importance": 0.0046865618717496504
+        },
+        {
+            "feature": "Allisonella",
+            "importance": 0.004466302128015552
+        },
+        {
+            "feature": "X.Clostridium..innocuum.group",
+            "importance": 0.004368531937587885
+        },
+        {
+            "feature": "Lachnospiraceae.UCG.001",
+            "importance": 0.004316040868735396
+        },
+        {
+            "feature": "Actinomyces",
+            "importance": 0.00431276402369456
+        },
+        {
+            "feature": "Lactobacillus",
+            "importance": 0.004262564903228636
+        },
+        {
+            "feature": "Anaerotruncus",
+            "importance": 0.004211873348310743
+        },
+        {
+            "feature": "Desulfovibrio",
+            "importance": 0.004068922153843149
+        },
+        {
+            "feature": "Ligilactobacillus",
+            "importance": 0.003845924170588394
+        },
+        {
+            "feature": "Lachnospiraceae.UCG.009",
+            "importance": 0.0038183251304433783
+        },
+        {
+            "feature": "Megamonas",
+            "importance": 0.003736097721259327
+        },
+        {
+            "feature": "Faecalitalea",
+            "importance": 0.003714162410128255
+        },
+        {
+            "feature": "Family.XIII.UCG.001",
+            "importance": 0.003655000926384219
+        },
+        {
+            "feature": "Uruburuella",
+            "importance": 0.003428965714283023
+        },
+        {
+            "feature": "Adlercreutzia",
+            "importance": 0.003413043026143364
+        },
+        {
+            "feature": "X.Ruminococcus..gauvreauii.group",
+            "importance": 0.0034035224457782836
+        },
+        {
+            "feature": "Fusobacterium",
+            "importance": 0.0033615151857973613
+        },
+        {
+            "feature": "X28.4",
+            "importance": 0.0032885849139798976
+        },
+        {
+            "feature": "TM7x",
+            "importance": 0.003080264804999774
+        },
+        {
+            "feature": "Butyricimonas",
+            "importance": 0.003021063049944683
+        },
+        {
+            "feature": "GCA.900066575",
+            "importance": 0.003017711526390324
+        },
+        {
+            "feature": "Gordonibacter",
+            "importance": 0.0029989929660110557
+        },
+        {
+            "feature": "Eubacterium",
+            "importance": 0.0027777686286499037
+        },
+        {
+            "feature": "Coprobacter",
+            "importance": 0.0026737430660706972
+        },
+        {
+            "feature": "Lachnospiraceae.UCG.003",
+            "importance": 0.0026567955299946896
+        },
+        {
+            "feature": "Morganella",
+            "importance": 0.0026506693380998403
+        },
+        {
+            "feature": "Coprobacillus",
+            "importance": 0.0025421646124224257
+        },
+        {
+            "feature": "Gemella",
+            "importance": 0.0025308575879485033
+        },
+        {
+            "feature": "Marvinbryantia",
+            "importance": 0.002511900461846786
+        },
+        {
+            "feature": "Catenibacterium",
+            "importance": 0.0024654609922148372
+        },
+        {
+            "feature": "Paraprevotella",
+            "importance": 0.002458693055278895
+        },
+        {
+            "feature": "Defluviitaleaceae.UCG.011",
+            "importance": 0.0023983852531275
+        },
+        {
+            "feature": "Ralstonia",
+            "importance": 0.0023645265447562397
+        },
+        {
+            "feature": "Lactococcus",
+            "importance": 0.002335190994298803
+        },
+        {
+            "feature": "Christensenella",
+            "importance": 0.0022148999191797573
+        },
+        {
+            "feature": "Dielma",
+            "importance": 0.002178383602172643
+        },
+        {
+            "feature": "Catabacter",
+            "importance": 0.0021715871520026366
+        },
+        {
+            "feature": "Lachnospiraceae.UCG.008",
+            "importance": 0.002091965247404915
+        },
+        {
+            "feature": "Fenollaria",
+            "importance": 0.0020843994260388724
+        },
+        {
+            "feature": "Acetanaerobacterium",
+            "importance": 0.0020394537191040433
+        },
+        {
+            "feature": "Candidatus.Soleaferrea",
+            "importance": 0.002018757701102606
+        },
+        {
+            "feature": "Paludicola",
+            "importance": 0.001931249891796781
+        },
+        {
+            "feature": "Oscillospira",
+            "importance": 0.0019246565766739886
+        },
+        {
+            "feature": "Prevotella_7",
+            "importance": 0.0018569346418720021
+        },
+        {
+            "feature": "Lachnospiraceae.NC2004.group",
+            "importance": 0.001746454991066376
+        },
+        {
+            "feature": "Enterococcus",
+            "importance": 0.001668777681309206
+        },
+        {
+            "feature": "Porphyromonas",
+            "importance": 0.001590862085315389
+        },
+        {
+            "feature": "Anaerostignum",
+            "importance": 0.0015818123718224755
+        },
+        {
+            "feature": "UCG.009",
+            "importance": 0.001542855478625202
+        },
+        {
+            "feature": "Aquamonas",
+            "importance": 0.0015307756195613316
+        },
+        {
+            "feature": "Oxalobacter",
+            "importance": 0.0015133748608876611
+        },
+        {
+            "feature": "Limosilactobacillus",
+            "importance": 0.0015032235363993157
+        },
+        {
+            "feature": "Fournierella",
+            "importance": 0.0013872339275285842
+        },
+        {
+            "feature": "Senegalimassilia",
+            "importance": 0.0013618176635002094
+        },
+        {
+            "feature": "Peptococcus",
+            "importance": 0.00134388002344881
+        },
+        {
+            "feature": "Sarcina",
+            "importance": 0.001331758362647668
+        },
+        {
+            "feature": "Ottowia",
+            "importance": 0.0011975926253800088
+        },
+        {
+            "feature": "Rothia",
+            "importance": 0.0011936336176332119
+        },
+        {
+            "feature": "Phocea",
+            "importance": 0.0011845769061906383
+        },
+        {
+            "feature": "Lachnospiraceae.AC2044.group",
+            "importance": 0.0010958889638609407
+        },
+        {
+            "feature": "ASF356",
+            "importance": 0.0009903796517207295
+        },
+        {
+            "feature": "Alcaligenes",
+            "importance": 0.0009055337457760664
+        },
+        {
+            "feature": "Slackia",
+            "importance": 0.0009024082322319911
+        },
+        {
+            "feature": "Anaerofustis",
+            "importance": 0.0008991325949814895
+        },
+        {
+            "feature": "Frisingicoccus",
+            "importance": 0.0008955326012357049
+        },
+        {
+            "feature": "Lacticaseibacillus",
+            "importance": 0.0008862222225531189
+        },
+        {
+            "feature": "X.Eubacterium..brachy.group",
+            "importance": 0.0008710849538880963
+        },
+        {
+            "feature": "X.Eubacterium..oxidoreducens.group",
+            "importance": 0.0008237661144274386
+        },
+        {
+            "feature": "Prevotellaceae.NK3B31.group",
+            "importance": 0.0008215807179693121
+        },
+        {
+            "feature": "X.Eubacterium..nodatum.group",
+            "importance": 0.0008090770368554905
+        },
+        {
+            "feature": "Leuconostoc",
+            "importance": 0.0007798576784711204
+        },
+        {
+            "feature": "Murimonas",
+            "importance": 0.0007498029558308357
+        },
+        {
+            "feature": "Pseudoflavonifractor",
+            "importance": 0.000626957837566546
+        },
+        {
+            "feature": "Abiotrophia",
+            "importance": 0.0005714309369587423
+        },
+        {
+            "feature": "Weissella",
+            "importance": 0.0005436214400314689
+        },
+        {
+            "feature": "Staphylococcus",
+            "importance": 0.00045911552076832745
+        },
+        {
+            "feature": "GCA.900066755",
+            "importance": 0.00043718565638848906
+        },
+        {
+            "feature": "Citrobacter",
+            "importance": 0.000399372041871497
+        },
+        {
+            "feature": "Methanobrevibacter",
+            "importance": 0.00035496407066566607
+        },
+        {
+            "feature": "Pyramidobacter",
+            "importance": 0.0003487742336330981
+        },
+        {
+            "feature": "Conservatibacter",
+            "importance": 0.00033203713519110905
+        },
+        {
+            "feature": "Raoultella",
+            "importance": 0.00032884054759334583
+        },
+        {
+            "feature": "Mannheimia",
+            "importance": 0.0003285675817198398
+        },
+        {
+            "feature": "Ezakiella",
+            "importance": 0.00031922379887083135
+        },
+        {
+            "feature": "Parvimonas",
+            "importance": 0.00031766017894678306
+        },
+        {
+            "feature": "Catenibacillus",
+            "importance": 0.0003128484760578889
+        },
+        {
+            "feature": "Peptoniphilus",
+            "importance": 0.00031039081903548073
+        },
+        {
+            "feature": "Victivallis",
+            "importance": 0.0002924342401420224
+        },
+        {
+            "feature": "Neisseria",
+            "importance": 0.00027527535359780025
+        },
+        {
+            "feature": "Solobacterium",
+            "importance": 0.0002601596151065919
+        },
+        {
+            "feature": "Anaerofilum",
+            "importance": 0.000255779369316404
+        },
+        {
+            "feature": "Enterobacter",
+            "importance": 0.0002444931508346479
+        },
+        {
+            "feature": "Paeniclostridium",
+            "importance": 0.00023802207938958354
+        },
+        {
+            "feature": "Calorithrix",
+            "importance": 0.0002374571707091486
+        },
+        {
+            "feature": "Pseudomonas",
+            "importance": 0.00023408603185402449
+        },
+        {
+            "feature": "Aeromonas",
+            "importance": 0.0002337169806276885
+        },
+        {
+            "feature": "Merdibacter",
+            "importance": 0.00023338574337583367
+        },
+        {
+            "feature": "Prevotellaceae.UCG.001",
+            "importance": 0.00022158096200075166
+        },
+        {
+            "feature": "Clostridium.sensu.stricto.2",
+            "importance": 0.00022149164667056197
+        },
+        {
+            "feature": "Delftia",
+            "importance": 0.00021458081054177025
+        },
+        {
+            "feature": "Lactonifactor",
+            "importance": 0.00020208064141712294
+        },
+        {
+            "feature": "Ruminiclostridium",
+            "importance": 0.00019756022292163696
+        },
+        {
+            "feature": "Shuttleworthia",
+            "importance": 0.00018437950763620112
+        },
+        {
+            "feature": "Atopobium",
+            "importance": 0.00017947042624699336
+        },
+        {
+            "feature": "Peptoclostridium",
+            "importance": 0.00015806355439581076
+        },
+        {
+            "feature": "Anaerococcus",
+            "importance": 0.0001562957480284022
+        },
+        {
+            "feature": "Pseudobutyrivibrio",
+            "importance": 0.0001471324296750828
+        },
+        {
+            "feature": "Raoultibacter",
+            "importance": 0.0001411233425396954
+        },
+        {
+            "feature": "Cutibacterium",
+            "importance": 0.00013792300972774433
+        },
+        {
+            "feature": "Acinetobacter",
+            "importance": 0.00013735253924457438
+        },
+        {
+            "feature": "Acidaminococcus",
+            "importance": 0.00013662526442188519
+        },
+        {
+            "feature": "Angelakisella",
+            "importance": 0.000127935725500038
+        },
+        {
+            "feature": "Campylobacter",
+            "importance": 0.00011986599873820579
+        },
+        {
+            "feature": "Anaerovorax",
+            "importance": 0.00011565381616742768
+        },
+        {
+            "feature": "Mogibacterium",
+            "importance": 0.00011111413003552456
+        },
+        {
+            "feature": "UC5.1.2E3",
+            "importance": 0.00011054765970130134
+        },
+        {
+            "feature": "Chryseobacterium",
+            "importance": 0.00010310635102685081
+        },
+        {
+            "feature": "Salinibacter",
+            "importance": 9.428712606182053e-05
+        },
+        {
+            "feature": "Asaccharospora",
+            "importance": 9.310941841047102e-05
+        },
+        {
+            "feature": "Candidatus.Stoquefichus",
+            "importance": 9.110355186444752e-05
+        },
+        {
+            "feature": "Syntrophococcus",
+            "importance": 8.374910104614266e-05
+        },
+        {
+            "feature": "Asteroleplasma",
+            "importance": 7.433637972472917e-05
+        },
+        {
+            "feature": "Corynebacterium",
+            "importance": 7.10533126435014e-05
+        },
+        {
+            "feature": "Salmonella",
+            "importance": 6.901204423541082e-05
+        },
+        {
+            "feature": "Ochrobactrum",
+            "importance": 6.250985315427422e-05
+        },
+        {
+            "feature": "Latilactobacillus",
+            "importance": 5.945827804457995e-05
+        },
+        {
+            "feature": "Muribaculum",
+            "importance": 5.280737073861258e-05
+        },
+        {
+            "feature": "Anaeroplasma",
+            "importance": 4.433130301957909e-05
+        },
+        {
+            "feature": "Alcanivorax",
+            "importance": 4.255974969232027e-05
+        },
+        {
+            "feature": "Cloacibacillus",
+            "importance": 4.11052782018477e-05
+        },
+        {
+            "feature": "Moryella",
+            "importance": 3.916699618361215e-05
+        },
+        {
+            "feature": "Varibaculum",
+            "importance": 3.8155313266644867e-05
+        },
+        {
+            "feature": "Howardella",
+            "importance": 3.5630884814310785e-05
+        },
+        {
+            "feature": "Papillibacter",
+            "importance": 3.524566968132148e-05
+        },
+        {
+            "feature": "Mitsuokella",
+            "importance": 3.2407498277100485e-05
+        },
+        {
+            "feature": "Harryflintia",
+            "importance": 2.7902213469005295e-05
+        },
+        {
+            "feature": "Enterorhabdus",
+            "importance": 2.5996335994533275e-05
+        },
+        {
+            "feature": "UCG.004",
+            "importance": 1.9406449851300928e-05
+        },
+        {
+            "feature": "Mailhella",
+            "importance": 1.2899352756630878e-05
+        },
+        {
+            "feature": "Proteus",
+            "importance": 7.5298108309828276e-06
+        },
+        {
+            "feature": "Lautropia",
+            "importance": 7.198037771889824e-06
+        },
+        {
+            "feature": "Rikenellaceae.RC9.gut.group",
+            "importance": 2.9198953876474606e-06
+        },
+        {
+            "feature": "Kosakonia",
+            "importance": 0.0
+        },
+        {
+            "feature": "Stomatobaculum",
+            "importance": 0.0
+        },
+        {
+            "feature": "Actinobacillus",
+            "importance": 0.0
+        },
+        {
+            "feature": "Kluyvera",
+            "importance": 0.0
+        },
+        {
+            "feature": "Succinivibrio",
+            "importance": 0.0
+        },
+        {
+            "feature": "Lactiplantibacillus",
+            "importance": 0.0
+        },
+        {
+            "feature": "Cuneatibacter",
+            "importance": 0.0
+        },
+        {
+            "feature": "Acidovorax",
+            "importance": 0.0
+        },
+        {
+            "feature": "Tepidimonas",
+            "importance": 0.0
+        },
+        {
+            "feature": "DNF00809",
+            "importance": 0.0
+        },
+        {
+            "feature": "UCG.008",
+            "importance": 0.0
+        },
+        {
+            "feature": "Thermus",
+            "importance": 0.0
+        },
+        {
+            "feature": "Brevundimonas",
+            "importance": 0.0
+        },
+        {
+            "feature": "Trabulsiella",
+            "importance": 0.0
+        },
+        {
+            "feature": "Acetatifactor",
+            "importance": 0.0
+        },
+        {
+            "feature": "Elusimicrobium",
+            "importance": 0.0
+        },
+        {
+            "feature": "Stenotrophomonas",
+            "importance": 0.0
+        },
+        {
+            "feature": "Libanicoccus",
+            "importance": 0.0
+        },
+        {
+            "feature": "Bacillus",
+            "importance": 0.0
+        },
+        {
+            "feature": "Lawsonella",
+            "importance": 0.0
+        },
+        {
+            "feature": "X.Eubacterium..tenue.group",
+            "importance": 0.0
+        },
+        {
+            "feature": "Clostridioides",
+            "importance": 0.0
+        },
+        {
+            "feature": "Paucibacter",
+            "importance": 0.0
+        },
+        {
+            "feature": "Asaccharobacter",
+            "importance": 0.0
+        },
+        {
+            "feature": "Cronobacter",
+            "importance": 0.0
+        },
+        {
+            "feature": "Caproiciproducens",
+            "importance": 0.0
+        },
+        {
+            "feature": "Parasporobacterium",
+            "importance": 0.0
+        },
+        {
+            "feature": "Halomonas",
+            "importance": 0.0
+        },
+        {
+            "feature": "Peptostreptococcus",
+            "importance": 0.0
+        },
+        {
+            "feature": "Gallicola",
+            "importance": 0.0
+        },
+        {
+            "feature": "Phyllobacterium",
+            "importance": 0.0
+        },
+        {
+            "feature": "Lachnospiraceae.NK4B4.group",
+            "importance": 0.0
+        },
+        {
+            "feature": "Finegoldia",
+            "importance": 0.0
+        },
+        {
+            "feature": "Helicobacter",
+            "importance": 0.0
+        },
+        {
+            "feature": "Providencia",
+            "importance": 0.0
+        },
+        {
+            "feature": "Holzapfelia",
+            "importance": 0.0
+        },
+        {
+            "feature": "Catenisphaera",
+            "importance": 0.0
+        },
+        {
+            "feature": "Psychrobacter",
+            "importance": 0.0
+        },
+        {
+            "feature": "Olsenella",
+            "importance": 0.0
+        },
+        {
+            "feature": "F0332",
+            "importance": 0.0
+        },
+        {
+            "feature": "Oerskovia",
+            "importance": 0.0
+        },
+        {
+            "feature": "HT002",
+            "importance": 0.0
+        },
+        {
+            "feature": "Rhodococcus",
+            "importance": 0.0
+        },
+        {
+            "feature": "Negativicoccus",
+            "importance": 0.0
+        },
+        {
+            "feature": "Candidatus.Profftella",
+            "importance": 0.0
+        },
+        {
+            "feature": "Murdochiella",
+            "importance": 0.0
+        },
+        {
+            "feature": "S5.A14a",
+            "importance": 0.0
+        },
+        {
+            "feature": "Pectobacterium",
+            "importance": 0.0
+        },
+        {
+            "feature": "Epulopiscium",
+            "importance": 0.0
+        },
+        {
+            "feature": "Enteroscipio",
+            "importance": 0.0
+        },
+        {
+            "feature": "Fructilactobacillus",
+            "importance": 0.0
+        }
+    ],
+    "permutation_importance": [
+        {
+            "feature": "Prevotella",
+            "importance": 0.014551083591331282,
+            "std": 0.0015402282308151754
+        },
+        {
+            "feature": "Collinsella",
+            "importance": 0.013931888544891635,
+            "std": 0.002296036683311329
+        },
+        {
+            "feature": "UCG.002",
+            "importance": 0.010758513931888558,
+            "std": 0.0021182557559449177
+        },
+        {
+            "feature": "Prevotella_9",
+            "importance": 0.009829721362229104,
+            "std": 0.001429271309026285
+        },
+        {
+            "feature": "X.Eubacterium..hallii.group",
+            "importance": 0.009287925696594423,
+            "std": 0.0017307027689627056
+        },
+        {
+            "feature": "Alloprevotella",
+            "importance": 0.008668730650154787,
+            "std": 0.0019519381134548972
+        },
+        {
+            "feature": "X.Ruminococcus..gnavus.group",
+            "importance": 0.008049535603715153,
+            "std": 0.0009911957023889973
+        },
+        {
+            "feature": "Parasutterella",
+            "importance": 0.007430340557275516,
+            "std": 0.0013931888544891802
+        },
+        {
+            "feature": "Alistipes",
+            "importance": 0.006346749226006166,
+            "std": 0.001026818820543461
+        },
+        {
+            "feature": "Butyricicoccus",
+            "importance": 0.005959752321981404,
+            "std": 0.0014705882352940972
+        },
+        {
+            "feature": "UBA1819",
+            "importance": 0.005959752321981393,
+            "std": 0.0013428290691097095
+        },
+        {
+            "feature": "Klebsiella",
+            "importance": 0.005882352941176472,
+            "std": 0.0015167119150359936
+        },
+        {
+            "feature": "UCG.005",
+            "importance": 0.005572755417956665,
+            "std": 0.0012383900928792226
+        },
+        {
+            "feature": "DTU089",
+            "importance": 0.005340557275541791,
+            "std": 0.0011712651664412693
+        },
+        {
+            "feature": "Bifidobacterium",
+            "importance": 0.00534055727554178,
+            "std": 0.0009447798464189853
+        },
+        {
+            "feature": "Christensenellaceae.R.7.group",
+            "importance": 0.005108359133126949,
+            "std": 0.0012090169776944955
+        },
+        {
+            "feature": "X.Eubacterium..ruminantium.group",
+            "importance": 0.005108359133126928,
+            "std": 0.0013043575500272665
+        },
+        {
+            "feature": "Lachnospiraceae.ND3007.group",
+            "importance": 0.005030959752321984,
+            "std": 0.0006240137576082059
+        },
+        {
+            "feature": "Colidextribacter",
+            "importance": 0.004876160990712086,
+            "std": 0.0009190667250029007
+        },
+        {
+            "feature": "Lachnoclostridium",
+            "importance": 0.004876160990712075,
+            "std": 0.001297450047541777
+        },
+        {
+            "feature": "Bacteroides",
+            "importance": 0.004721362229102177,
+            "std": 0.001360556952882858
+        },
+        {
+            "feature": "Roseburia",
+            "importance": 0.004566563467492279,
+            "std": 0.0007301842981467655
+        },
+        {
+            "feature": "Family.XIII.AD3011.group",
+            "importance": 0.004566563467492268,
+            "std": 0.0012213416283327408
+        },
+        {
+            "feature": "Tyzzerella",
+            "importance": 0.00441176470588236,
+            "std": 0.001800263676410659
+        },
+        {
+            "feature": "Lachnospiraceae.NK4A136.group",
+            "importance": 0.004256965944272462,
+            "std": 0.0015956291120811214
+        },
+        {
+            "feature": "Haemophilus",
+            "importance": 0.004102167182662575,
+            "std": 0.0004955978511944691
+        },
+        {
+            "feature": "Escherichia.Shigella",
+            "importance": 0.004102167182662553,
+            "std": 0.0013428290691096878
+        },
+        {
+            "feature": "Eggerthella",
+            "importance": 0.004024767801857609,
+            "std": 0.0013316292983037914
+        },
+        {
+            "feature": "Romboutsia",
+            "importance": 0.004024767801857598,
+            "std": 0.001189031849515239
+        },
+        {
+            "feature": "Anaerostipes",
+            "importance": 0.003947368421052666,
+            "std": 0.0008790879792260401
+        },
+        {
+            "feature": "X.Eubacterium..siraeum.group",
+            "importance": 0.0038699690402477114,
+            "std": 0.0012480275152164805
+        },
+        {
+            "feature": "Blautia",
+            "importance": 0.003869969040247667,
+            "std": 0.001660031779375139
+        },
+        {
+            "feature": "Subdoligranulum",
+            "importance": 0.003792569659442768,
+            "std": 0.0006429275435695179
+        },
+        {
+            "feature": "NK4A214.group",
+            "importance": 0.003792569659442768,
+            "std": 0.0008080732592036123
+        },
+        {
+            "feature": "Hungatella",
+            "importance": 0.0037925696594427573,
+            "std": 0.00100619195046439
+        },
+        {
+            "feature": "Monoglobus",
+            "importance": 0.0036377708978328482,
+            "std": 0.0010973256098109718
+        },
+        {
+            "feature": "X.Eubacterium..ventriosum.group",
+            "importance": 0.003482972136222939,
+            "std": 0.0013066519362332906
+        },
+        {
+            "feature": "Erysipelatoclostridium",
+            "importance": 0.003482972136222939,
+            "std": 0.001108190484773705
+        },
+        {
+            "feature": "Oscillibacter",
+            "importance": 0.003405572755417996,
+            "std": 0.0007893219061289231
+        },
+        {
+            "feature": "Clostridium.sensu.stricto.1",
+            "importance": 0.003405572755417985,
+            "std": 0.0012090169776945241
+        },
+        {
+            "feature": "Lachnospira",
+            "importance": 0.003405572755417985,
+            "std": 0.00143554465874546
+        },
+        {
+            "feature": "Holdemanella",
+            "importance": 0.003405572755417985,
+            "std": 0.0012090169776945241
+        },
+        {
+            "feature": "Agathobacter",
+            "importance": 0.003405572755417985,
+            "std": 0.0009911957023889747
+        },
+        {
+            "feature": "Negativibacillus",
+            "importance": 0.0033281733746130414,
+            "std": 0.0010413021708261506
+        },
+        {
+            "feature": "Lachnospiraceae.UCG.004",
+            "importance": 0.0031733746130031327,
+            "std": 0.0013605569528829062
+        },
+        {
+            "feature": "Akkermansia",
+            "importance": 0.0031733746130031327,
+            "std": 0.0008080732592036123
+        },
+        {
+            "feature": "Erysipelotrichaceae.UCG.003",
+            "importance": 0.0031733746130031327,
+            "std": 0.0008790879792260587
+        },
+        {
+            "feature": "Bilophila",
+            "importance": 0.0031733746130031214,
+            "std": 0.0011189498680186408
+        },
+        {
+            "feature": "Lachnospiraceae.UCG.010",
+            "importance": 0.003095975232198178,
+            "std": 0.0006922811075850822
+        },
+        {
+            "feature": "X.Eubacterium..fissicatena.group",
+            "importance": 0.003095975232198178,
+            "std": 0.0008478677360761183
+        },
+        {
+            "feature": "Family.XIII.UCG.001",
+            "importance": 0.003095975232198178,
+            "std": 0.0008478677360761183
+        },
+        {
+            "feature": "Flavonifractor",
+            "importance": 0.0030185758513932236,
+            "std": 0.0010640655638442477
+        },
+        {
+            "feature": "UCG.003",
+            "importance": 0.002941176470588269,
+            "std": 0.000579203929841174
+        },
+        {
+            "feature": "X.Eubacterium..xylanophilum.group",
+            "importance": 0.002941176470588269,
+            "std": 0.0008336168432096853
+        },
+        {
+            "feature": "X.Ruminococcus..torques.group",
+            "importance": 0.002941176470588269,
+            "std": 0.0009667179564084318
+        },
+        {
+            "feature": "Ruminococcus",
+            "importance": 0.002863777089783315,
+            "std": 0.0006965944272445901
+        },
+        {
+            "feature": "Dialister",
+            "importance": 0.0027863777089783604,
+            "std": 0.0009911957023889973
+        },
+        {
+            "feature": "Actinomyces",
+            "importance": 0.0027863777089783604,
+            "std": 0.0009287925696594534
+        },
+        {
+            "feature": "Christensenella",
+            "importance": 0.002708978328173406,
+            "std": 0.00038699690402477227
+        },
+        {
+            "feature": "Holdemania",
+            "importance": 0.002708978328173406,
+            "std": 0.0008653513844813528
+        },
+        {
+            "feature": "Coprococcus",
+            "importance": 0.0026315789473684514,
+            "std": 0.0007093770425628317
+        },
+        {
+            "feature": "Lactobacillus",
+            "importance": 0.0026315789473684405,
+            "std": 0.0013043575500272916
+        },
+        {
+            "feature": "Paraprevotella",
+            "importance": 0.002554179566563497,
+            "std": 0.000777854150241564
+        },
+        {
+            "feature": "Parabacteroides",
+            "importance": 0.002554179566563497,
+            "std": 0.0010973256098109898
+        },
+        {
+            "feature": "Fusicatenibacter",
+            "importance": 0.0024767801857585427,
+            "std": 0.0008336168432096851
+        },
+        {
+            "feature": "Butyricimonas",
+            "importance": 0.0024767801857585427,
+            "std": 0.0003095975232198178
+        },
+        {
+            "feature": "Gordonibacter",
+            "importance": 0.0024767801857585427,
+            "std": 0.0009026241323290043
+        },
+        {
+            "feature": "X.Eubacterium..eligens.group",
+            "importance": 0.002399380804953588,
+            "std": 0.0005417956656346811
+        },
+        {
+            "feature": "Granulicatella",
+            "importance": 0.002399380804953588,
+            "std": 0.0011712651664413105
+        },
+        {
+            "feature": "Lachnospiraceae.UCG.001",
+            "importance": 0.0023219814241486336,
+            "std": 0.0011480183416556885
+        },
+        {
+            "feature": "Dorea",
+            "importance": 0.0023219814241486336,
+            "std": 0.0010945925405364638
+        },
+        {
+            "feature": "Turicibacter",
+            "importance": 0.002244582043343679,
+            "std": 0.0007301842981468044
+        },
+        {
+            "feature": "Faecalibacterium",
+            "importance": 0.0021671826625387245,
+            "std": 0.0011375339362770308
+        },
+        {
+            "feature": "Sutterella",
+            "importance": 0.0021671826625387245,
+            "std": 0.0009667179564084318
+        },
+        {
+            "feature": "Streptococcus",
+            "importance": 0.0020897832817337704,
+            "std": 0.0010413021708261506
+        },
+        {
+            "feature": "Anaerotruncus",
+            "importance": 0.002012383900928816,
+            "std": 0.0008618830283018709
+        },
+        {
+            "feature": "Veillonella",
+            "importance": 0.002012383900928816,
+            "std": 0.001105484276864231
+        },
+        {
+            "feature": "Sellimonas",
+            "importance": 0.0019349845201238614,
+            "std": 0.0006240137576082541
+        },
+        {
+            "feature": "Eisenbergiella",
+            "importance": 0.0019349845201238614,
+            "std": 0.00093201196430282
+        },
+        {
+            "feature": "CAG.352",
+            "importance": 0.0019349845201238614,
+            "std": 0.0006240137576082541
+        },
+        {
+            "feature": "Adlercreutzia",
+            "importance": 0.0018575851393189068,
+            "std": 0.0009911957023889973
+        },
+        {
+            "feature": "Lachnospiraceae.FCS020.group",
+            "importance": 0.0018575851393189068,
+            "std": 0.0007893219061289231
+        },
+        {
+            "feature": "Frisingicoccus",
+            "importance": 0.0017801857585139525,
+            "std": 0.0004955978511944986
+        },
+        {
+            "feature": "X.Clostridium..innocuum.group",
+            "importance": 0.0017801857585139525,
+            "std": 0.0009820880449264448
+        },
+        {
+            "feature": "CAG.56",
+            "importance": 0.0017801857585139525,
+            "std": 0.0010413021708261508
+        },
+        {
+            "feature": "Paludicola",
+            "importance": 0.001702786377708998,
+            "std": 0.0006747521584428366
+        },
+        {
+            "feature": "Phascolarctobacterium",
+            "importance": 0.0016253869969040436,
+            "std": 0.00041680842160484263
+        },
+        {
+            "feature": "Ligilactobacillus",
+            "importance": 0.0016253869969040436,
+            "std": 0.0005417956656346812
+        },
+        {
+            "feature": "Intestinibacter",
+            "importance": 0.0016253869969040436,
+            "std": 0.0007301842981468044
+        },
+        {
+            "feature": "Lachnospiraceae.UCG.009",
+            "importance": 0.0016253869969040436,
+            "std": 0.0007301842981468044
+        },
+        {
+            "feature": "Barnesiella",
+            "importance": 0.0016253869969040436,
+            "std": 0.001006191950464408
+        },
+        {
+            "feature": "Desulfovibrio",
+            "importance": 0.001547987616099089,
+            "std": 0.0004895166656607454
+        },
+        {
+            "feature": "Odoribacter",
+            "importance": 0.0014705882352941345,
+            "std": 0.0009447798464190283
+        },
+        {
+            "feature": "Terrisporobacter",
+            "importance": 0.0014705882352941345,
+            "std": 0.00041680842160484263
+        },
+        {
+            "feature": "GCA.900066575",
+            "importance": 0.0014705882352941345,
+            "std": 0.0008790879792260587
+        },
+        {
+            "feature": "Faecalitalea",
+            "importance": 0.0013931888544891802,
+            "std": 0.0003095975232198178
+        },
+        {
+            "feature": "Defluviitaleaceae.UCG.011",
+            "importance": 0.0013157894736842257,
+            "std": 0.00035468852128141585
+        },
+        {
+            "feature": "Allisonella",
+            "importance": 0.0013157894736842257,
+            "std": 0.0006965944272445902
+        },
+        {
+            "feature": "Fenollaria",
+            "importance": 0.0013157894736842257,
+            "std": 0.0008513931888544991
+        },
+        {
+            "feature": "Dielma",
+            "importance": 0.0013157894736842257,
+            "std": 0.0004955978511944986
+        },
+        {
+            "feature": "X.Ruminococcus..gauvreauii.group",
+            "importance": 0.0013157894736842257,
+            "std": 0.0006045084888472713
+        },
+        {
+            "feature": "Tuzzerella",
+            "importance": 0.0013157894736842257,
+            "std": 0.000777854150241564
+        },
+        {
+            "feature": "Catenibacterium",
+            "importance": 0.0012383900928792714,
+            "std": 0.0003791779787590103
+        },
+        {
+            "feature": "Eubacterium",
+            "importance": 0.0012383900928792714,
+            "std": 0.000861883028301871
+        },
+        {
+            "feature": "Prevotella_7",
+            "importance": 0.0011609907120743168,
+            "std": 0.0005192108306888117
+        },
+        {
+            "feature": "Uruburuella",
+            "importance": 0.0011609907120743168,
+            "std": 0.0006240137576082541
+        },
+        {
+            "feature": "Lactococcus",
+            "importance": 0.0011609907120743168,
+            "std": 0.0005192108306888117
+        },
+        {
+            "feature": "Fournierella",
+            "importance": 0.0010835913312693623,
+            "std": 0.0005134094102717397
+        },
+        {
+            "feature": "Oxalobacter",
+            "importance": 0.001006191950464408,
+            "std": 0.0004955978511944986
+        },
+        {
+            "feature": "Candidatus.Soleaferrea",
+            "importance": 0.001006191950464408,
+            "std": 0.00035468852128141585
+        },
+        {
+            "feature": "Catabacter",
+            "importance": 0.001006191950464408,
+            "std": 0.00035468852128141585
+        },
+        {
+            "feature": "TM7x",
+            "importance": 0.001006191950464408,
+            "std": 0.00035468852128141585
+        },
+        {
+            "feature": "Porphyromonas",
+            "importance": 0.0009287925696594534,
+            "std": 0.0004643962848297267
+        },
+        {
+            "feature": "Intestinimonas",
+            "importance": 0.0009287925696594534,
+            "std": 0.0004643962848297267
+        },
+        {
+            "feature": "ASF356",
+            "importance": 0.000851393188854499,
+            "std": 0.00023219814241486335
+        },
+        {
+            "feature": "Lachnospiraceae.UCG.003",
+            "importance": 0.000851393188854499,
+            "std": 0.00023219814241486338
+        },
+        {
+            "feature": "X.Eubacterium..oxidoreducens.group",
+            "importance": 0.000851393188854499,
+            "std": 0.00023219814241486338
+        },
+        {
+            "feature": "Megamonas",
+            "importance": 0.000851393188854499,
+            "std": 0.0005417956656346811
+        },
+        {
+            "feature": "Acinetobacter",
+            "importance": 0.0007739938080495445,
+            "std": 0.0
+        },
+        {
+            "feature": "Peptoniphilus",
+            "importance": 0.0007739938080495445,
+            "std": 0.0
+        },
+        {
+            "feature": "Enterobacter",
+            "importance": 0.0007739938080495445,
+            "std": 0.0
+        },
+        {
+            "feature": "Paeniclostridium",
+            "importance": 0.0007739938080495445,
+            "std": 0.0
+        },
+        {
+            "feature": "UCG.009",
+            "importance": 0.0007739938080495445,
+            "std": 0.0004895166656607454
+        },
+        {
+            "feature": "Methanobrevibacter",
+            "importance": 0.0007739938080495445,
+            "std": 0.0
+        },
+        {
+            "feature": "Megasphaera",
+            "importance": 0.0006965944272445901,
+            "std": 0.0008080732592036123
+        },
+        {
+            "feature": "Acetanaerobacterium",
+            "importance": 0.0006191950464396357,
+            "std": 0.0004643962848297267
+        },
+        {
+            "feature": "X.Eubacterium..nodatum.group",
+            "importance": 0.0006191950464396357,
+            "std": 0.0007583559575180205
+        },
+        {
+            "feature": "Limosilactobacillus",
+            "importance": 0.0006191950464396357,
+            "std": 0.0006747521584428366
+        },
+        {
+            "feature": "Lachnospiraceae.AC2044.group",
+            "importance": 0.0005417956656346811,
+            "std": 0.0009820880449264446
+        },
+        {
+            "feature": "Peptococcus",
+            "importance": 0.0005417956656346811,
+            "std": 0.0004955978511944986
+        },
+        {
+            "feature": "Anaerostignum",
+            "importance": 0.0004643962848297267,
+            "std": 0.0006191950464396356
+        },
+        {
+            "feature": "Lachnospiraceae.UCG.008",
+            "importance": 0.0004643962848297267,
+            "std": 0.0005134094102717397
+        },
+        {
+            "feature": "Gemella",
+            "importance": 0.00038699690402477227,
+            "std": 0.0005192108306888117
+        },
+        {
+            "feature": "Phocea",
+            "importance": 0.00038699690402477227,
+            "std": 0.00038699690402477227
+        },
+        {
+            "feature": "Morganella",
+            "importance": 0.00030959752321981784,
+            "std": 0.0007093770425628317
+        },
+        {
+            "feature": "Oscillospira",
+            "importance": 0.00030959752321981784,
+            "std": 0.0005134094102717397
+        },
+        {
+            "feature": "Coprobacter",
+            "importance": 0.00030959752321981784,
+            "std": 0.00037917797875901033
+        },
+        {
+            "feature": "Coprobacillus",
+            "importance": 0.00030959752321981784,
+            "std": 0.0005134094102717397
+        },
+        {
+            "feature": "Ralstonia",
+            "importance": 0.00030959752321981784,
+            "std": 0.0003791779787590103
+        },
+        {
+            "feature": "Leuconostoc",
+            "importance": 0.00023219814241486335,
+            "std": 0.00035468852128141585
+        },
+        {
+            "feature": "X.Eubacterium..brachy.group",
+            "importance": 0.00023219814241486335,
+            "std": 0.00035468852128141585
+        },
+        {
+            "feature": "Anaerofustis",
+            "importance": 0.00023219814241486335,
+            "std": 0.00035468852128141585
+        },
+        {
+            "feature": "Pseudoflavonifractor",
+            "importance": 0.00023219814241486335,
+            "std": 0.00035468852128141585
+        },
+        {
+            "feature": "Senegalimassilia",
+            "importance": 0.00023219814241486335,
+            "std": 0.00035468852128141585
+        },
+        {
+            "feature": "Acidaminococcus",
+            "importance": 0.00023219814241486335,
+            "std": 0.00035468852128141585
+        },
+        {
+            "feature": "Lacticaseibacillus",
+            "importance": 0.00015479876160990892,
+            "std": 0.0003095975232198178
+        },
+        {
+            "feature": "Aquamonas",
+            "importance": 0.00015479876160990892,
+            "std": 0.00046439628482972676
+        },
+        {
+            "feature": "Neisseria",
+            "importance": 0.00015479876160990892,
+            "std": 0.00030959752321981784
+        },
+        {
+            "feature": "Slackia",
+            "importance": 0.00015479876160990892,
+            "std": 0.00030959752321981784
+        },
+        {
+            "feature": "Murimonas",
+            "importance": 0.00015479876160990892,
+            "std": 0.0003095975232198178
+        },
+        {
+            "feature": "Marvinbryantia",
+            "importance": 0.00015479876160990892,
+            "std": 0.00030959752321981784
+        },
+        {
+            "feature": "Prevotellaceae.UCG.001",
+            "importance": 0.00015479876160990892,
+            "std": 0.00030959752321981784
+        },
+        {
+            "feature": "Merdibacter",
+            "importance": 0.00015479876160990892,
+            "std": 0.00030959752321981784
+        },
+        {
+            "feature": "Pseudomonas",
+            "importance": 0.00015479876160990892,
+            "std": 0.00030959752321981784
+        },
+        {
+            "feature": "Weissella",
+            "importance": 0.00015479876160990892,
+            "std": 0.00030959752321981784
+        },
+        {
+            "feature": "Citrobacter",
+            "importance": 0.00015479876160990892,
+            "std": 0.00030959752321981784
+        },
+        {
+            "feature": "Lachnospiraceae.NC2004.group",
+            "importance": 0.00015479876160990892,
+            "std": 0.0003095975232198178
+        },
+        {
+            "feature": "Staphylococcus",
+            "importance": 7.739938080495446e-05,
+            "std": 0.00023219814241486338
+        },
+        {
+            "feature": "Fusobacterium",
+            "importance": 7.739938080495446e-05,
+            "std": 0.00023219814241486338
+        },
+        {
+            "feature": "Aeromonas",
+            "importance": 7.739938080495446e-05,
+            "std": 0.00023219814241486338
+        },
+        {
+            "feature": "Parvimonas",
+            "importance": 7.739938080495446e-05,
+            "std": 0.00023219814241486338
+        },
+        {
+            "feature": "Abiotrophia",
+            "importance": 7.739938080495446e-05,
+            "std": 0.00023219814241486338
+        },
+        {
+            "feature": "X28.4",
+            "importance": 7.739938080495446e-05,
+            "std": 0.00023219814241486338
+        },
+        {
+            "feature": "Ruminiclostridium",
+            "importance": 7.739938080495446e-05,
+            "std": 0.00023219814241486338
+        },
+        {
+            "feature": "Enterococcus",
+            "importance": 7.739938080495446e-05,
+            "std": 0.00023219814241486338
+        },
+        {
+            "feature": "Prevotellaceae.NK3B31.group",
+            "importance": 7.739938080495446e-05,
+            "std": 0.00023219814241486338
+        },
+        {
+            "feature": "Solobacterium",
+            "importance": 7.739938080495446e-05,
+            "std": 0.00023219814241486338
+        },
+        {
+            "feature": "Victivallis",
+            "importance": 7.739938080495446e-05,
+            "std": 0.00023219814241486335
+        },
+        {
+            "feature": "Alcaligenes",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "S5.A14a",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Salinibacter",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Salmonella",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Sarcina",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Rothia",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Actinobacillus",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Raoultibacter",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Rikenellaceae.RC9.gut.group",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Rhodococcus",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Clostridioides",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Raoultella",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Pyramidobacter",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Psychrobacter",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Ezakiella",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "F0332",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Pseudobutyrivibrio",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Providencia",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Proteus",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Cloacibacillus",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Asaccharobacter",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Shuttleworthia",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Epulopiscium",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Cutibacterium",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Varibaculum",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Delftia",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Corynebacterium",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "UCG.008",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "DNF00809",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "UCG.004",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "X.Eubacterium..tenue.group",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Conservatibacter",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "UC5.1.2E3",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Clostridium.sensu.stricto.2",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Elusimicrobium",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Trabulsiella",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Thermus",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Enterorhabdus",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Tepidimonas",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Syntrophococcus",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Acetatifactor",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Succinivibrio",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Enteroscipio",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Acidovorax",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Stomatobaculum",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Stenotrophomonas",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Chryseobacterium",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Catenisphaera",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Alcanivorax",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Negativicoccus",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Holzapfelia",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Muribaculum",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Murdochiella",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Moryella",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Cuneatibacter",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Angelakisella",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Mogibacterium",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Mitsuokella",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Howardella",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "HT002",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Kluyvera",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Kosakonia",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Brevundimonas",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Mannheimia",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Mailhella",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Bacillus",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Libanicoccus",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Atopobium",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Lawsonella",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Lautropia",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Latilactobacillus",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Lactonifactor",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Asteroleplasma",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Lachnospiraceae.NK4B4.group",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Lactiplantibacillus",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Anaerovorax",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Calorithrix",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Asaccharospora",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Campylobacter",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Finegoldia",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Catenibacillus",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Phyllobacterium",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Fructilactobacillus",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Caproiciproducens",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Peptostreptococcus",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Gallicola",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Peptoclostridium",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Pectobacterium",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Paucibacter",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Anaerococcus",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Parasporobacterium",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Anaerofilum",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "GCA.900066755",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Papillibacter",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Candidatus.Stoquefichus",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Candidatus.Profftella",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Halomonas",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Ottowia",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Harryflintia",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Anaeroplasma",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Olsenella",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Oerskovia",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Helicobacter",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Ochrobactrum",
+            "importance": 0.0,
+            "std": 0.0
+        },
+        {
+            "feature": "Cronobacter",
+            "importance": 0.0,
+            "std": 0.0
+        }
+    ],
+    "class_importance": {
+        "X.Clostridium..innocuum.group": {
+            "ASD": 0.004368531937587885,
+            "Control": 0.004368531937587885
+        },
+        "X.Eubacterium..brachy.group": {
+            "ASD": 0.0008710849538880963,
+            "Control": 0.0008710849538880963
+        },
+        "X.Eubacterium..eligens.group": {
+            "ASD": 0.01038917032820248,
+            "Control": 0.01038917032820248
+        },
+        "X.Eubacterium..fissicatena.group": {
+            "ASD": 0.007541774960347981,
+            "Control": 0.007541774960347981
+        },
+        "X.Eubacterium..hallii.group": {
+            "ASD": 0.01391006715251793,
+            "Control": 0.01391006715251793
+        },
+        "X.Eubacterium..nodatum.group": {
+            "ASD": 0.0008090770368554905,
+            "Control": 0.0008090770368554905
+        },
+        "X.Eubacterium..oxidoreducens.group": {
+            "ASD": 0.0008237661144274386,
+            "Control": 0.0008237661144274386
+        },
+        "X.Eubacterium..ruminantium.group": {
+            "ASD": 0.009434439720083853,
+            "Control": 0.009434439720083853
+        },
+        "X.Eubacterium..siraeum.group": {
+            "ASD": 0.012880312321666691,
+            "Control": 0.012880312321666691
+        },
+        "X.Eubacterium..tenue.group": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "X.Eubacterium..ventriosum.group": {
+            "ASD": 0.011242903375860697,
+            "Control": 0.011242903375860697
+        },
+        "X.Eubacterium..xylanophilum.group": {
+            "ASD": 0.01108412889499841,
+            "Control": 0.01108412889499841
+        },
+        "X.Ruminococcus..gauvreauii.group": {
+            "ASD": 0.0034035224457782836,
+            "Control": 0.0034035224457782836
+        },
+        "X.Ruminococcus..gnavus.group": {
+            "ASD": 0.014260440407425384,
+            "Control": 0.014260440407425384
+        },
+        "X.Ruminococcus..torques.group": {
+            "ASD": 0.011097876649262178,
+            "Control": 0.011097876649262178
+        },
+        "X28.4": {
+            "ASD": 0.0032885849139798976,
+            "Control": 0.0032885849139798976
+        },
+        "Abiotrophia": {
+            "ASD": 0.0005714309369587423,
+            "Control": 0.0005714309369587423
+        },
+        "Acetanaerobacterium": {
+            "ASD": 0.0020394537191040433,
+            "Control": 0.0020394537191040433
+        },
+        "Acetatifactor": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Acidaminococcus": {
+            "ASD": 0.00013662526442188519,
+            "Control": 0.00013662526442188519
+        },
+        "Acidovorax": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Acinetobacter": {
+            "ASD": 0.00013735253924457438,
+            "Control": 0.00013735253924457438
+        },
+        "Actinobacillus": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Actinomyces": {
+            "ASD": 0.00431276402369456,
+            "Control": 0.00431276402369456
+        },
+        "Adlercreutzia": {
+            "ASD": 0.003413043026143364,
+            "Control": 0.003413043026143364
+        },
+        "Aeromonas": {
+            "ASD": 0.0002337169806276885,
+            "Control": 0.0002337169806276885
+        },
+        "Agathobacter": {
+            "ASD": 0.010145347333409126,
+            "Control": 0.010145347333409126
+        },
+        "Akkermansia": {
+            "ASD": 0.008653060650668887,
+            "Control": 0.008653060650668887
+        },
+        "Alcaligenes": {
+            "ASD": 0.0009055337457760664,
+            "Control": 0.0009055337457760664
+        },
+        "Alcanivorax": {
+            "ASD": 4.255974969232027e-05,
+            "Control": 4.255974969232027e-05
+        },
+        "Alistipes": {
+            "ASD": 0.014375606286807598,
+            "Control": 0.014375606286807598
+        },
+        "Allisonella": {
+            "ASD": 0.004466302128015552,
+            "Control": 0.004466302128015552
+        },
+        "Alloprevotella": {
+            "ASD": 0.0165431453210056,
+            "Control": 0.0165431453210056
+        },
+        "Anaerococcus": {
+            "ASD": 0.0001562957480284022,
+            "Control": 0.0001562957480284022
+        },
+        "Anaerofilum": {
+            "ASD": 0.000255779369316404,
+            "Control": 0.000255779369316404
+        },
+        "Anaerofustis": {
+            "ASD": 0.0008991325949814895,
+            "Control": 0.0008991325949814895
+        },
+        "Anaeroplasma": {
+            "ASD": 4.433130301957909e-05,
+            "Control": 4.433130301957909e-05
+        },
+        "Anaerostignum": {
+            "ASD": 0.0015818123718224755,
+            "Control": 0.0015818123718224755
+        },
+        "Anaerostipes": {
+            "ASD": 0.013004405786589242,
+            "Control": 0.013004405786589242
+        },
+        "Anaerotruncus": {
+            "ASD": 0.004211873348310743,
+            "Control": 0.004211873348310743
+        },
+        "Anaerovorax": {
+            "ASD": 0.00011565381616742768,
+            "Control": 0.00011565381616742768
+        },
+        "Angelakisella": {
+            "ASD": 0.000127935725500038,
+            "Control": 0.000127935725500038
+        },
+        "Aquamonas": {
+            "ASD": 0.0015307756195613316,
+            "Control": 0.0015307756195613316
+        },
+        "Asaccharobacter": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Asaccharospora": {
+            "ASD": 9.310941841047102e-05,
+            "Control": 9.310941841047102e-05
+        },
+        "ASF356": {
+            "ASD": 0.0009903796517207295,
+            "Control": 0.0009903796517207295
+        },
+        "Asteroleplasma": {
+            "ASD": 7.433637972472917e-05,
+            "Control": 7.433637972472917e-05
+        },
+        "Atopobium": {
+            "ASD": 0.00017947042624699336,
+            "Control": 0.00017947042624699336
+        },
+        "Bacillus": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Bacteroides": {
+            "ASD": 0.014194547649572892,
+            "Control": 0.014194547649572892
+        },
+        "Barnesiella": {
+            "ASD": 0.005916711076482921,
+            "Control": 0.005916711076482921
+        },
+        "Bifidobacterium": {
+            "ASD": 0.012467742442638723,
+            "Control": 0.012467742442638723
+        },
+        "Bilophila": {
+            "ASD": 0.0100389380860753,
+            "Control": 0.0100389380860753
+        },
+        "Blautia": {
+            "ASD": 0.012910803281984868,
+            "Control": 0.012910803281984868
+        },
+        "Brevundimonas": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Butyricicoccus": {
+            "ASD": 0.01368981131075612,
+            "Control": 0.01368981131075612
+        },
+        "Butyricimonas": {
+            "ASD": 0.003021063049944683,
+            "Control": 0.003021063049944683
+        },
+        "CAG.352": {
+            "ASD": 0.007405877954024023,
+            "Control": 0.007405877954024023
+        },
+        "CAG.56": {
+            "ASD": 0.005417271310843042,
+            "Control": 0.005417271310843042
+        },
+        "Calorithrix": {
+            "ASD": 0.0002374571707091486,
+            "Control": 0.0002374571707091486
+        },
+        "Campylobacter": {
+            "ASD": 0.00011986599873820579,
+            "Control": 0.00011986599873820579
+        },
+        "Candidatus.Profftella": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Candidatus.Soleaferrea": {
+            "ASD": 0.002018757701102606,
+            "Control": 0.002018757701102606
+        },
+        "Candidatus.Stoquefichus": {
+            "ASD": 9.110355186444752e-05,
+            "Control": 9.110355186444752e-05
+        },
+        "Caproiciproducens": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Catabacter": {
+            "ASD": 0.0021715871520026366,
+            "Control": 0.0021715871520026366
+        },
+        "Catenibacillus": {
+            "ASD": 0.0003128484760578889,
+            "Control": 0.0003128484760578889
+        },
+        "Catenibacterium": {
+            "ASD": 0.0024654609922148372,
+            "Control": 0.0024654609922148372
+        },
+        "Catenisphaera": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Christensenella": {
+            "ASD": 0.0022148999191797573,
+            "Control": 0.0022148999191797573
+        },
+        "Christensenellaceae.R.7.group": {
+            "ASD": 0.012441075637519854,
+            "Control": 0.012441075637519854
+        },
+        "Chryseobacterium": {
+            "ASD": 0.00010310635102685081,
+            "Control": 0.00010310635102685081
+        },
+        "Citrobacter": {
+            "ASD": 0.000399372041871497,
+            "Control": 0.000399372041871497
+        },
+        "Cloacibacillus": {
+            "ASD": 4.11052782018477e-05,
+            "Control": 4.11052782018477e-05
+        },
+        "Clostridioides": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Clostridium.sensu.stricto.1": {
+            "ASD": 0.009887557518607735,
+            "Control": 0.009887557518607735
+        },
+        "Clostridium.sensu.stricto.2": {
+            "ASD": 0.00022149164667056197,
+            "Control": 0.00022149164667056197
+        },
+        "Colidextribacter": {
+            "ASD": 0.008430154723564986,
+            "Control": 0.008430154723564986
+        },
+        "Collinsella": {
+            "ASD": 0.017455863796203896,
+            "Control": 0.017455863796203896
+        },
+        "Conservatibacter": {
+            "ASD": 0.00033203713519110905,
+            "Control": 0.00033203713519110905
+        },
+        "Coprobacillus": {
+            "ASD": 0.0025421646124224257,
+            "Control": 0.0025421646124224257
+        },
+        "Coprobacter": {
+            "ASD": 0.0026737430660706972,
+            "Control": 0.0026737430660706972
+        },
+        "Coprococcus": {
+            "ASD": 0.008792923978333572,
+            "Control": 0.008792923978333572
+        },
+        "Corynebacterium": {
+            "ASD": 7.10533126435014e-05,
+            "Control": 7.10533126435014e-05
+        },
+        "Cronobacter": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Cuneatibacter": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Cutibacterium": {
+            "ASD": 0.00013792300972774433,
+            "Control": 0.00013792300972774433
+        },
+        "Defluviitaleaceae.UCG.011": {
+            "ASD": 0.0023983852531275,
+            "Control": 0.0023983852531275
+        },
+        "Delftia": {
+            "ASD": 0.00021458081054177025,
+            "Control": 0.00021458081054177025
+        },
+        "Desulfovibrio": {
+            "ASD": 0.004068922153843149,
+            "Control": 0.004068922153843149
+        },
+        "Dialister": {
+            "ASD": 0.008441795900317212,
+            "Control": 0.008441795900317212
+        },
+        "Dielma": {
+            "ASD": 0.002178383602172643,
+            "Control": 0.002178383602172643
+        },
+        "DNF00809": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Dorea": {
+            "ASD": 0.009596775695463293,
+            "Control": 0.009596775695463293
+        },
+        "DTU089": {
+            "ASD": 0.008884016743556657,
+            "Control": 0.008884016743556657
+        },
+        "Eggerthella": {
+            "ASD": 0.0077752974771757456,
+            "Control": 0.0077752974771757456
+        },
+        "Eisenbergiella": {
+            "ASD": 0.007556730737488094,
+            "Control": 0.007556730737488094
+        },
+        "Elusimicrobium": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Enterobacter": {
+            "ASD": 0.0002444931508346479,
+            "Control": 0.0002444931508346479
+        },
+        "Enterococcus": {
+            "ASD": 0.001668777681309206,
+            "Control": 0.001668777681309206
+        },
+        "Enterorhabdus": {
+            "ASD": 2.5996335994533275e-05,
+            "Control": 2.5996335994533275e-05
+        },
+        "Enteroscipio": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Epulopiscium": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Erysipelatoclostridium": {
+            "ASD": 0.008746033030426656,
+            "Control": 0.008746033030426656
+        },
+        "Erysipelotrichaceae.UCG.003": {
+            "ASD": 0.006615139670712558,
+            "Control": 0.006615139670712558
+        },
+        "Escherichia.Shigella": {
+            "ASD": 0.01175986681159412,
+            "Control": 0.01175986681159412
+        },
+        "Eubacterium": {
+            "ASD": 0.0027777686286499037,
+            "Control": 0.0027777686286499037
+        },
+        "Ezakiella": {
+            "ASD": 0.00031922379887083135,
+            "Control": 0.00031922379887083135
+        },
+        "F0332": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Faecalibacterium": {
+            "ASD": 0.011765031357415568,
+            "Control": 0.011765031357415568
+        },
+        "Faecalitalea": {
+            "ASD": 0.003714162410128255,
+            "Control": 0.003714162410128255
+        },
+        "Family.XIII.AD3011.group": {
+            "ASD": 0.005822942622616768,
+            "Control": 0.005822942622616768
+        },
+        "Family.XIII.UCG.001": {
+            "ASD": 0.003655000926384219,
+            "Control": 0.003655000926384219
+        },
+        "Fenollaria": {
+            "ASD": 0.0020843994260388724,
+            "Control": 0.0020843994260388724
+        },
+        "Finegoldia": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Flavonifractor": {
+            "ASD": 0.010194060135536568,
+            "Control": 0.010194060135536568
+        },
+        "Fournierella": {
+            "ASD": 0.0013872339275285842,
+            "Control": 0.0013872339275285842
+        },
+        "Frisingicoccus": {
+            "ASD": 0.0008955326012357049,
+            "Control": 0.0008955326012357049
+        },
+        "Fructilactobacillus": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Fusicatenibacter": {
+            "ASD": 0.01058934199715866,
+            "Control": 0.01058934199715866
+        },
+        "Fusobacterium": {
+            "ASD": 0.0033615151857973613,
+            "Control": 0.0033615151857973613
+        },
+        "Gallicola": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "GCA.900066575": {
+            "ASD": 0.003017711526390324,
+            "Control": 0.003017711526390324
+        },
+        "GCA.900066755": {
+            "ASD": 0.00043718565638848906,
+            "Control": 0.00043718565638848906
+        },
+        "Gemella": {
+            "ASD": 0.0025308575879485033,
+            "Control": 0.0025308575879485033
+        },
+        "Gordonibacter": {
+            "ASD": 0.0029989929660110557,
+            "Control": 0.0029989929660110557
+        },
+        "Granulicatella": {
+            "ASD": 0.005040548079488354,
+            "Control": 0.005040548079488354
+        },
+        "Haemophilus": {
+            "ASD": 0.00931822275294156,
+            "Control": 0.00931822275294156
+        },
+        "Halomonas": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Harryflintia": {
+            "ASD": 2.7902213469005295e-05,
+            "Control": 2.7902213469005295e-05
+        },
+        "Helicobacter": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Holdemanella": {
+            "ASD": 0.005844211011509587,
+            "Control": 0.005844211011509587
+        },
+        "Holdemania": {
+            "ASD": 0.007381444797597858,
+            "Control": 0.007381444797597858
+        },
+        "Holzapfelia": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Howardella": {
+            "ASD": 3.5630884814310785e-05,
+            "Control": 3.5630884814310785e-05
+        },
+        "HT002": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Hungatella": {
+            "ASD": 0.011611171584662986,
+            "Control": 0.011611171584662986
+        },
+        "Intestinibacter": {
+            "ASD": 0.006925465121352159,
+            "Control": 0.006925465121352159
+        },
+        "Intestinimonas": {
+            "ASD": 0.005664175356241843,
+            "Control": 0.005664175356241843
+        },
+        "Klebsiella": {
+            "ASD": 0.011275969485199575,
+            "Control": 0.011275969485199575
+        },
+        "Kluyvera": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Kosakonia": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Lachnoclostridium": {
+            "ASD": 0.012738124822848182,
+            "Control": 0.012738124822848182
+        },
+        "Lachnospira": {
+            "ASD": 0.010864032562749098,
+            "Control": 0.010864032562749098
+        },
+        "Lachnospiraceae.AC2044.group": {
+            "ASD": 0.0010958889638609407,
+            "Control": 0.0010958889638609407
+        },
+        "Lachnospiraceae.FCS020.group": {
+            "ASD": 0.004763311848003296,
+            "Control": 0.004763311848003296
+        },
+        "Lachnospiraceae.NC2004.group": {
+            "ASD": 0.001746454991066376,
+            "Control": 0.001746454991066376
+        },
+        "Lachnospiraceae.ND3007.group": {
+            "ASD": 0.009960569155635984,
+            "Control": 0.009960569155635984
+        },
+        "Lachnospiraceae.NK4A136.group": {
+            "ASD": 0.016845627056526334,
+            "Control": 0.016845627056526334
+        },
+        "Lachnospiraceae.NK4B4.group": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Lachnospiraceae.UCG.001": {
+            "ASD": 0.004316040868735396,
+            "Control": 0.004316040868735396
+        },
+        "Lachnospiraceae.UCG.003": {
+            "ASD": 0.0026567955299946896,
+            "Control": 0.0026567955299946896
+        },
+        "Lachnospiraceae.UCG.004": {
+            "ASD": 0.012087126922512572,
+            "Control": 0.012087126922512572
+        },
+        "Lachnospiraceae.UCG.008": {
+            "ASD": 0.002091965247404915,
+            "Control": 0.002091965247404915
+        },
+        "Lachnospiraceae.UCG.009": {
+            "ASD": 0.0038183251304433783,
+            "Control": 0.0038183251304433783
+        },
+        "Lachnospiraceae.UCG.010": {
+            "ASD": 0.009211828155137323,
+            "Control": 0.009211828155137323
+        },
+        "Lacticaseibacillus": {
+            "ASD": 0.0008862222225531189,
+            "Control": 0.0008862222225531189
+        },
+        "Lactiplantibacillus": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Lactobacillus": {
+            "ASD": 0.004262564903228636,
+            "Control": 0.004262564903228636
+        },
+        "Lactococcus": {
+            "ASD": 0.002335190994298803,
+            "Control": 0.002335190994298803
+        },
+        "Lactonifactor": {
+            "ASD": 0.00020208064141712294,
+            "Control": 0.00020208064141712294
+        },
+        "Latilactobacillus": {
+            "ASD": 5.945827804457995e-05,
+            "Control": 5.945827804457995e-05
+        },
+        "Lautropia": {
+            "ASD": 7.198037771889824e-06,
+            "Control": 7.198037771889824e-06
+        },
+        "Lawsonella": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Leuconostoc": {
+            "ASD": 0.0007798576784711204,
+            "Control": 0.0007798576784711204
+        },
+        "Libanicoccus": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Ligilactobacillus": {
+            "ASD": 0.003845924170588394,
+            "Control": 0.003845924170588394
+        },
+        "Limosilactobacillus": {
+            "ASD": 0.0015032235363993157,
+            "Control": 0.0015032235363993157
+        },
+        "Mailhella": {
+            "ASD": 1.2899352756630878e-05,
+            "Control": 1.2899352756630878e-05
+        },
+        "Mannheimia": {
+            "ASD": 0.0003285675817198398,
+            "Control": 0.0003285675817198398
+        },
+        "Marvinbryantia": {
+            "ASD": 0.002511900461846786,
+            "Control": 0.002511900461846786
+        },
+        "Megamonas": {
+            "ASD": 0.003736097721259327,
+            "Control": 0.003736097721259327
+        },
+        "Megasphaera": {
+            "ASD": 0.004808887584768681,
+            "Control": 0.004808887584768681
+        },
+        "Merdibacter": {
+            "ASD": 0.00023338574337583367,
+            "Control": 0.00023338574337583367
+        },
+        "Methanobrevibacter": {
+            "ASD": 0.00035496407066566607,
+            "Control": 0.00035496407066566607
+        },
+        "Mitsuokella": {
+            "ASD": 3.2407498277100485e-05,
+            "Control": 3.2407498277100485e-05
+        },
+        "Mogibacterium": {
+            "ASD": 0.00011111413003552456,
+            "Control": 0.00011111413003552456
+        },
+        "Monoglobus": {
+            "ASD": 0.013806110886121315,
+            "Control": 0.013806110886121315
+        },
+        "Morganella": {
+            "ASD": 0.0026506693380998403,
+            "Control": 0.0026506693380998403
+        },
+        "Moryella": {
+            "ASD": 3.916699618361215e-05,
+            "Control": 3.916699618361215e-05
+        },
+        "Murdochiella": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Muribaculum": {
+            "ASD": 5.280737073861258e-05,
+            "Control": 5.280737073861258e-05
+        },
+        "Murimonas": {
+            "ASD": 0.0007498029558308357,
+            "Control": 0.0007498029558308357
+        },
+        "Negativibacillus": {
+            "ASD": 0.005356616286102311,
+            "Control": 0.005356616286102311
+        },
+        "Negativicoccus": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Neisseria": {
+            "ASD": 0.00027527535359780025,
+            "Control": 0.00027527535359780025
+        },
+        "NK4A214.group": {
+            "ASD": 0.012321163312833092,
+            "Control": 0.012321163312833092
+        },
+        "Ochrobactrum": {
+            "ASD": 6.250985315427422e-05,
+            "Control": 6.250985315427422e-05
+        },
+        "Odoribacter": {
+            "ASD": 0.006823338046629622,
+            "Control": 0.006823338046629622
+        },
+        "Oerskovia": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Olsenella": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Oscillibacter": {
+            "ASD": 0.011999640207925275,
+            "Control": 0.011999640207925275
+        },
+        "Oscillospira": {
+            "ASD": 0.0019246565766739886,
+            "Control": 0.0019246565766739886
+        },
+        "Ottowia": {
+            "ASD": 0.0011975926253800088,
+            "Control": 0.0011975926253800088
+        },
+        "Oxalobacter": {
+            "ASD": 0.0015133748608876611,
+            "Control": 0.0015133748608876611
+        },
+        "Paeniclostridium": {
+            "ASD": 0.00023802207938958354,
+            "Control": 0.00023802207938958354
+        },
+        "Paludicola": {
+            "ASD": 0.001931249891796781,
+            "Control": 0.001931249891796781
+        },
+        "Papillibacter": {
+            "ASD": 3.524566968132148e-05,
+            "Control": 3.524566968132148e-05
+        },
+        "Parabacteroides": {
+            "ASD": 0.0137688876542329,
+            "Control": 0.0137688876542329
+        },
+        "Paraprevotella": {
+            "ASD": 0.002458693055278895,
+            "Control": 0.002458693055278895
+        },
+        "Parasporobacterium": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Parasutterella": {
+            "ASD": 0.015571213515381339,
+            "Control": 0.015571213515381339
+        },
+        "Parvimonas": {
+            "ASD": 0.00031766017894678306,
+            "Control": 0.00031766017894678306
+        },
+        "Paucibacter": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Pectobacterium": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Peptoclostridium": {
+            "ASD": 0.00015806355439581076,
+            "Control": 0.00015806355439581076
+        },
+        "Peptococcus": {
+            "ASD": 0.00134388002344881,
+            "Control": 0.00134388002344881
+        },
+        "Peptoniphilus": {
+            "ASD": 0.00031039081903548073,
+            "Control": 0.00031039081903548073
+        },
+        "Peptostreptococcus": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Phascolarctobacterium": {
+            "ASD": 0.008413242826808458,
+            "Control": 0.008413242826808458
+        },
+        "Phocea": {
+            "ASD": 0.0011845769061906383,
+            "Control": 0.0011845769061906383
+        },
+        "Phyllobacterium": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Porphyromonas": {
+            "ASD": 0.001590862085315389,
+            "Control": 0.001590862085315389
+        },
+        "Prevotella": {
+            "ASD": 0.018074503617268083,
+            "Control": 0.018074503617268083
+        },
+        "Prevotella_7": {
+            "ASD": 0.0018569346418720021,
+            "Control": 0.0018569346418720021
+        },
+        "Prevotella_9": {
+            "ASD": 0.013687617472734007,
+            "Control": 0.013687617472734007
+        },
+        "Prevotellaceae.NK3B31.group": {
+            "ASD": 0.0008215807179693121,
+            "Control": 0.0008215807179693121
+        },
+        "Prevotellaceae.UCG.001": {
+            "ASD": 0.00022158096200075166,
+            "Control": 0.00022158096200075166
+        },
+        "Proteus": {
+            "ASD": 7.5298108309828276e-06,
+            "Control": 7.5298108309828276e-06
+        },
+        "Providencia": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Pseudobutyrivibrio": {
+            "ASD": 0.0001471324296750828,
+            "Control": 0.0001471324296750828
+        },
+        "Pseudoflavonifractor": {
+            "ASD": 0.000626957837566546,
+            "Control": 0.000626957837566546
+        },
+        "Pseudomonas": {
+            "ASD": 0.00023408603185402449,
+            "Control": 0.00023408603185402449
+        },
+        "Psychrobacter": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Pyramidobacter": {
+            "ASD": 0.0003487742336330981,
+            "Control": 0.0003487742336330981
+        },
+        "Ralstonia": {
+            "ASD": 0.0023645265447562397,
+            "Control": 0.0023645265447562397
+        },
+        "Raoultella": {
+            "ASD": 0.00032884054759334583,
+            "Control": 0.00032884054759334583
+        },
+        "Raoultibacter": {
+            "ASD": 0.0001411233425396954,
+            "Control": 0.0001411233425396954
+        },
+        "Rhodococcus": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Rikenellaceae.RC9.gut.group": {
+            "ASD": 2.9198953876474606e-06,
+            "Control": 2.9198953876474606e-06
+        },
+        "Romboutsia": {
+            "ASD": 0.008523843528355848,
+            "Control": 0.008523843528355848
+        },
+        "Roseburia": {
+            "ASD": 0.00980101812037673,
+            "Control": 0.00980101812037673
+        },
+        "Rothia": {
+            "ASD": 0.0011936336176332119,
+            "Control": 0.0011936336176332119
+        },
+        "Ruminiclostridium": {
+            "ASD": 0.00019756022292163696,
+            "Control": 0.00019756022292163696
+        },
+        "Ruminococcus": {
+            "ASD": 0.012914072400990104,
+            "Control": 0.012914072400990104
+        },
+        "S5.A14a": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Salinibacter": {
+            "ASD": 9.428712606182053e-05,
+            "Control": 9.428712606182053e-05
+        },
+        "Salmonella": {
+            "ASD": 6.901204423541082e-05,
+            "Control": 6.901204423541082e-05
+        },
+        "Sarcina": {
+            "ASD": 0.001331758362647668,
+            "Control": 0.001331758362647668
+        },
+        "Sellimonas": {
+            "ASD": 0.005996300394451868,
+            "Control": 0.005996300394451868
+        },
+        "Senegalimassilia": {
+            "ASD": 0.0013618176635002094,
+            "Control": 0.0013618176635002094
+        },
+        "Shuttleworthia": {
+            "ASD": 0.00018437950763620112,
+            "Control": 0.00018437950763620112
+        },
+        "Slackia": {
+            "ASD": 0.0009024082322319911,
+            "Control": 0.0009024082322319911
+        },
+        "Solobacterium": {
+            "ASD": 0.0002601596151065919,
+            "Control": 0.0002601596151065919
+        },
+        "Staphylococcus": {
+            "ASD": 0.00045911552076832745,
+            "Control": 0.00045911552076832745
+        },
+        "Stenotrophomonas": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Stomatobaculum": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Streptococcus": {
+            "ASD": 0.009920891204026781,
+            "Control": 0.009920891204026781
+        },
+        "Subdoligranulum": {
+            "ASD": 0.010022461738278504,
+            "Control": 0.010022461738278504
+        },
+        "Succinivibrio": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Sutterella": {
+            "ASD": 0.0073994502229218885,
+            "Control": 0.0073994502229218885
+        },
+        "Syntrophococcus": {
+            "ASD": 8.374910104614266e-05,
+            "Control": 8.374910104614266e-05
+        },
+        "Tepidimonas": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Terrisporobacter": {
+            "ASD": 0.0046865618717496504,
+            "Control": 0.0046865618717496504
+        },
+        "Thermus": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "TM7x": {
+            "ASD": 0.003080264804999774,
+            "Control": 0.003080264804999774
+        },
+        "Trabulsiella": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "Turicibacter": {
+            "ASD": 0.008684952209436284,
+            "Control": 0.008684952209436284
+        },
+        "Tuzzerella": {
+            "ASD": 0.005516114765757707,
+            "Control": 0.005516114765757707
+        },
+        "Tyzzerella": {
+            "ASD": 0.007981463897426972,
+            "Control": 0.007981463897426972
+        },
+        "UBA1819": {
+            "ASD": 0.01459526314780182,
+            "Control": 0.01459526314780182
+        },
+        "UC5.1.2E3": {
+            "ASD": 0.00011054765970130134,
+            "Control": 0.00011054765970130134
+        },
+        "UCG.002": {
+            "ASD": 0.015188877416080333,
+            "Control": 0.015188877416080333
+        },
+        "UCG.003": {
+            "ASD": 0.008028880482997531,
+            "Control": 0.008028880482997531
+        },
+        "UCG.004": {
+            "ASD": 1.9406449851300928e-05,
+            "Control": 1.9406449851300928e-05
+        },
+        "UCG.005": {
+            "ASD": 0.010691133752097187,
+            "Control": 0.010691133752097187
+        },
+        "UCG.008": {
+            "ASD": 0.0,
+            "Control": 0.0
+        },
+        "UCG.009": {
+            "ASD": 0.001542855478625202,
+            "Control": 0.001542855478625202
+        },
+        "Uruburuella": {
+            "ASD": 0.003428965714283023,
+            "Control": 0.003428965714283023
+        },
+        "Varibaculum": {
+            "ASD": 3.8155313266644867e-05,
+            "Control": 3.8155313266644867e-05
+        },
+        "Veillonella": {
+            "ASD": 0.009965595048386908,
+            "Control": 0.009965595048386908
+        },
+        "Victivallis": {
+            "ASD": 0.0002924342401420224,
+            "Control": 0.0002924342401420224
+        },
+        "Weissella": {
+            "ASD": 0.0005436214400314689,
+            "Control": 0.0005436214400314689
+        }
+    },
+    "feature_stability": {
+        "X.Clostridium..innocuum.group": 0.00812377552359123,
+        "X.Eubacterium..brachy.group": 0.0034848331548850433,
+        "X.Eubacterium..eligens.group": 0.01343079486230418,
+        "X.Eubacterium..fissicatena.group": 0.012634376827738181,
+        "X.Eubacterium..hallii.group": 0.015627917178943726,
+        "X.Eubacterium..nodatum.group": 0.0038529455687773503,
+        "X.Eubacterium..oxidoreducens.group": 0.0037520080159274814,
+        "X.Eubacterium..ruminantium.group": 0.015721490102211976,
+        "X.Eubacterium..siraeum.group": 0.01755424761514589,
+        "X.Eubacterium..tenue.group": 0.0,
+        "X.Eubacterium..ventriosum.group": 0.01423829019096914,
+        "X.Eubacterium..xylanophilum.group": 0.01699891793503785,
+        "X.Ruminococcus..gauvreauii.group": 0.007027690047285166,
+        "X.Ruminococcus..gnavus.group": 0.016309937000044364,
+        "X.Ruminococcus..torques.group": 0.013609733974812509,
+        "X28.4": 0.008708915894876738,
+        "Abiotrophia": 0.0033899065349585,
+        "Acetanaerobacterium": 0.00691539657045397,
+        "Acetatifactor": 0.0,
+        "Acidaminococcus": 0.001919617856960359,
+        "Acidovorax": 0.0,
+        "Acinetobacter": 0.0012204051912017128,
+        "Actinobacillus": 0.0,
+        "Actinomyces": 0.0075791226433448095,
+        "Adlercreutzia": 0.0074393739848767635,
+        "Aeromonas": 0.0023568340186664242,
+        "Agathobacter": 0.01213746797374051,
+        "Akkermansia": 0.011177491073834363,
+        "Alcaligenes": 0.004532517806321847,
+        "Alcanivorax": 0.0009507127929309718,
+        "Alistipes": 0.017544995475328635,
+        "Allisonella": 0.011213783211078012,
+        "Alloprevotella": 0.0274594893981393,
+        "Anaerococcus": 0.0016479495001598902,
+        "Anaerofilum": 0.002161089826086918,
+        "Anaerofustis": 0.004468230764970664,
+        "Anaeroplasma": 0.0009902862966230852,
+        "Anaerostignum": 0.005239796872724844,
+        "Anaerostipes": 0.014954080127268985,
+        "Anaerotruncus": 0.007923137851714475,
+        "Anaerovorax": 0.0015228837288457262,
+        "Angelakisella": 0.0013909500986217101,
+        "Aquamonas": 0.006097138130483826,
+        "Asaccharobacter": 0.0,
+        "Asaccharospora": 0.0011934773800905425,
+        "ASF356": 0.0054873034130486055,
+        "Asteroleplasma": 0.0011852241927815396,
+        "Atopobium": 0.0016756254548921353,
+        "Bacillus": 0.0,
+        "Bacteroides": 0.01579141162100951,
+        "Barnesiella": 0.009728036563468405,
+        "Bifidobacterium": 0.014842361337915047,
+        "Bilophila": 0.01218022199993192,
+        "Blautia": 0.014842869944201075,
+        "Brevundimonas": 0.0,
+        "Butyricicoccus": 0.015599671581408986,
+        "Butyricimonas": 0.007229668614272183,
+        "CAG.352": 0.01299983851816612,
+        "CAG.56": 0.009515242870678047,
+        "Calorithrix": 0.002450986998169889,
+        "Campylobacter": 0.0015483737818011262,
+        "Candidatus.Profftella": 0.0,
+        "Candidatus.Soleaferrea": 0.005588324523100688,
+        "Candidatus.Stoquefichus": 0.0013249354941939281,
+        "Caproiciproducens": 0.0,
+        "Catabacter": 0.00727248925076529,
+        "Catenibacillus": 0.002371649946971502,
+        "Catenibacterium": 0.008388974862818227,
+        "Catenisphaera": 0.0,
+        "Christensenella": 0.00660811169818364,
+        "Christensenellaceae.R.7.group": 0.016235247832470222,
+        "Chryseobacterium": 0.0013712898155495473,
+        "Citrobacter": 0.0028193036527063525,
+        "Cloacibacillus": 0.0009182223609396524,
+        "Clostridioides": 0.0,
+        "Clostridium.sensu.stricto.1": 0.012002799885807002,
+        "Clostridium.sensu.stricto.2": 0.0020542730344387944,
+        "Colidextribacter": 0.011358267987752475,
+        "Collinsella": 0.020599660747493975,
+        "Conservatibacter": 0.0025445571399182122,
+        "Coprobacillus": 0.007394432646700384,
+        "Coprobacter": 0.006675509210799342,
+        "Coprococcus": 0.011563134222213134,
+        "Corynebacterium": 0.0008588067033094176,
+        "Cronobacter": 0.0,
+        "Cuneatibacter": 0.0,
+        "Cutibacterium": 0.0012919351275874937,
+        "Defluviitaleaceae.UCG.011": 0.006153354999667897,
+        "Delftia": 0.0020323246512396584,
+        "Desulfovibrio": 0.00814127460692013,
+        "Dialister": 0.011564056865768437,
+        "Dielma": 0.006645309193195606,
+        "DNF00809": 0.0,
+        "Dorea": 0.012718104466266951,
+        "DTU089": 0.014238435782666179,
+        "Eggerthella": 0.011697946662862667,
+        "Eisenbergiella": 0.012541186038592583,
+        "Elusimicrobium": 0.0,
+        "Enterobacter": 0.0022979758911554366,
+        "Enterococcus": 0.005560780547350238,
+        "Enterorhabdus": 0.00058071415781363,
+        "Enteroscipio": 0.0,
+        "Epulopiscium": 0.0,
+        "Erysipelatoclostridium": 0.01246152873581832,
+        "Erysipelotrichaceae.UCG.003": 0.01022038191059179,
+        "Escherichia.Shigella": 0.014350935037556446,
+        "Eubacterium": 0.008867555870121299,
+        "Ezakiella": 0.00220050862541403,
+        "F0332": 0.0,
+        "Faecalibacterium": 0.01356031033756086,
+        "Faecalitalea": 0.007609906337859997,
+        "Family.XIII.AD3011.group": 0.01052732353655772,
+        "Family.XIII.UCG.001": 0.00826652435394915,
+        "Fenollaria": 0.0060281009687169484,
+        "Finegoldia": 0.0,
+        "Flavonifractor": 0.012921270682007378,
+        "Fournierella": 0.0053155724805524175,
+        "Frisingicoccus": 0.003627986942084729,
+        "Fructilactobacillus": 0.0,
+        "Fusicatenibacter": 0.012903265758981824,
+        "Fusobacterium": 0.007412854709198832,
+        "Gallicola": 0.0,
+        "GCA.900066575": 0.006720489251390966,
+        "GCA.900066755": 0.002559573956188731,
+        "Gemella": 0.0067025074281047035,
+        "Gordonibacter": 0.00724151055917869,
+        "Granulicatella": 0.010906525868923513,
+        "Haemophilus": 0.012150458322740145,
+        "Halomonas": 0.0,
+        "Harryflintia": 0.0006232882356650856,
+        "Helicobacter": 0.0,
+        "Holdemanella": 0.011547123775583399,
+        "Holdemania": 0.011596256999876459,
+        "Holzapfelia": 0.0,
+        "Howardella": 0.0007470663725333273,
+        "HT002": 0.0,
+        "Hungatella": 0.016324298524796364,
+        "Intestinibacter": 0.009882055036288258,
+        "Intestinimonas": 0.009519187280921172,
+        "Klebsiella": 0.01661942714765432,
+        "Kluyvera": 0.0,
+        "Kosakonia": 0.0,
+        "Lachnoclostridium": 0.014591541173069725,
+        "Lachnospira": 0.013845745894057453,
+        "Lachnospiraceae.AC2044.group": 0.004473411701798243,
+        "Lachnospiraceae.FCS020.group": 0.009044919618511978,
+        "Lachnospiraceae.NC2004.group": 0.005929163108829402,
+        "Lachnospiraceae.ND3007.group": 0.013449965584770738,
+        "Lachnospiraceae.NK4A136.group": 0.01803107501423881,
+        "Lachnospiraceae.NK4B4.group": 0.0,
+        "Lachnospiraceae.UCG.001": 0.008743323328930182,
+        "Lachnospiraceae.UCG.003": 0.006945795492739665,
+        "Lachnospiraceae.UCG.004": 0.01524334741236967,
+        "Lachnospiraceae.UCG.008": 0.007425588727955093,
+        "Lachnospiraceae.UCG.009": 0.008295987984834542,
+        "Lachnospiraceae.UCG.010": 0.012767355082562635,
+        "Lacticaseibacillus": 0.004270219327560755,
+        "Lactiplantibacillus": 0.0,
+        "Lactobacillus": 0.01056772478205291,
+        "Lactococcus": 0.0067882697037959,
+        "Lactonifactor": 0.0017589391710557392,
+        "Latilactobacillus": 0.0009459306754860399,
+        "Lautropia": 0.00016079198405085502,
+        "Lawsonella": 0.0,
+        "Leuconostoc": 0.004720902681243313,
+        "Libanicoccus": 0.0,
+        "Ligilactobacillus": 0.010511987889375416,
+        "Limosilactobacillus": 0.006391784254155033,
+        "Mailhella": 0.00028814971363591677,
+        "Mannheimia": 0.0026326779668740742,
+        "Marvinbryantia": 0.006383895890863404,
+        "Megamonas": 0.008218581176356595,
+        "Megasphaera": 0.01001689564011637,
+        "Merdibacter": 0.0018578699126251138,
+        "Methanobrevibacter": 0.002438319845639289,
+        "Mitsuokella": 0.0007239286749021297,
+        "Mogibacterium": 0.0014532012779138919,
+        "Monoglobus": 0.016224203590869964,
+        "Morganella": 0.008578765090615705,
+        "Moryella": 0.0008749244204121286,
+        "Murdochiella": 0.0,
+        "Muribaculum": 0.001142401737464069,
+        "Murimonas": 0.004342813350368561,
+        "Negativibacillus": 0.011697597639086212,
+        "Negativicoccus": 0.0,
+        "Neisseria": 0.0018077828285884973,
+        "NK4A214.group": 0.015876025835265793,
+        "Ochrobactrum": 0.0009865991963713028,
+        "Odoribacter": 0.01110436562850677,
+        "Oerskovia": 0.0,
+        "Olsenella": 0.0,
+        "Oscillibacter": 0.014529449565891766,
+        "Oscillospira": 0.005443454711719268,
+        "Ottowia": 0.005499335640554495,
+        "Oxalobacter": 0.005758215289285171,
+        "Paeniclostridium": 0.0021271233464455436,
+        "Paludicola": 0.006327462851726925,
+        "Papillibacter": 0.0007873286216130628,
+        "Parabacteroides": 0.016408407217831458,
+        "Paraprevotella": 0.0069418237108950015,
+        "Parasporobacterium": 0.0,
+        "Parasutterella": 0.01776013889580682,
+        "Parvimonas": 0.002082592913494361,
+        "Paucibacter": 0.0,
+        "Pectobacterium": 0.0,
+        "Peptoclostridium": 0.0017679794260082539,
+        "Peptococcus": 0.004784535308736259,
+        "Peptoniphilus": 0.0020094620347953234,
+        "Peptostreptococcus": 0.0,
+        "Phascolarctobacterium": 0.012694382335183465,
+        "Phocea": 0.0042593456453622735,
+        "Phyllobacterium": 0.0,
+        "Porphyromonas": 0.006070486753147965,
+        "Prevotella": 0.025930245539503485,
+        "Prevotella_7": 0.005924554350756304,
+        "Prevotella_9": 0.01907657985310558,
+        "Prevotellaceae.NK3B31.group": 0.004277208116011712,
+        "Prevotellaceae.UCG.001": 0.002270945327143359,
+        "Proteus": 0.000168203232799025,
+        "Providencia": 0.0,
+        "Pseudobutyrivibrio": 0.0014542766974770668,
+        "Pseudoflavonifractor": 0.003815813152011957,
+        "Pseudomonas": 0.002080008575623766,
+        "Psychrobacter": 0.0,
+        "Pyramidobacter": 0.002534320658231259,
+        "Ralstonia": 0.008348277244927699,
+        "Raoultella": 0.0026531205217965345,
+        "Raoultibacter": 0.0017406378370650377,
+        "Rhodococcus": 0.0,
+        "Rikenellaceae.RC9.gut.group": 4.653233042948016e-05,
+        "Romboutsia": 0.011955285566210066,
+        "Roseburia": 0.011517218187369688,
+        "Rothia": 0.0051074199357059495,
+        "Ruminiclostridium": 0.001976060391458218,
+        "Ruminococcus": 0.01481192495905735,
+        "S5.A14a": 0.0,
+        "Salinibacter": 0.0012721084270764919,
+        "Salmonella": 0.0011312082971770862,
+        "Sarcina": 0.005411921720059724,
+        "Sellimonas": 0.009709692046925327,
+        "Senegalimassilia": 0.004913137394489323,
+        "Shuttleworthia": 0.0015831668435847199,
+        "Slackia": 0.003994153585534004,
+        "Solobacterium": 0.0020804630443788798,
+        "Staphylococcus": 0.0032958217307536147,
+        "Stenotrophomonas": 0.0,
+        "Stomatobaculum": 0.0,
+        "Streptococcus": 0.012545918202678204,
+        "Subdoligranulum": 0.012705438405035324,
+        "Succinivibrio": 0.0,
+        "Sutterella": 0.010699667906336809,
+        "Syntrophococcus": 0.0013456418926346186,
+        "Tepidimonas": 0.0,
+        "Terrisporobacter": 0.009239201967696564,
+        "Thermus": 0.0,
+        "TM7x": 0.009099241796677949,
+        "Trabulsiella": 0.0,
+        "Turicibacter": 0.01215527437095735,
+        "Tuzzerella": 0.009325136716498572,
+        "Tyzzerella": 0.012832453387566492,
+        "UBA1819": 0.01592974903571663,
+        "UC5.1.2E3": 0.0013998584889056635,
+        "UCG.002": 0.018103548207342505,
+        "UCG.003": 0.010814940538619635,
+        "UCG.004": 0.00043350725209585517,
+        "UCG.005": 0.014446579781523717,
+        "UCG.008": 0.0,
+        "UCG.009": 0.00508866970391787,
+        "Uruburuella": 0.010681122144592152,
+        "Varibaculum": 0.0008523251359120121,
+        "Veillonella": 0.013447515360946861,
+        "Victivallis": 0.0022163249120170383,
+        "Weissella": 0.003043037283733537
+    },
+    "top_features": [
+        "Prevotella",
+        "Collinsella",
+        "Lachnospiraceae.NK4A136.group",
+        "Alloprevotella",
+        "Parasutterella",
+        "UCG.002",
+        "UBA1819",
+        "Alistipes",
+        "X.Ruminococcus..gnavus.group",
+        "Bacteroides",
+        "X.Eubacterium..hallii.group",
+        "Monoglobus",
+        "Parabacteroides",
+        "Butyricicoccus",
+        "Prevotella_9",
+        "Anaerostipes",
+        "Ruminococcus",
+        "Blautia",
+        "X.Eubacterium..siraeum.group",
+        "Lachnoclostridium"
+    ]
+}
